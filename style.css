@@ -92,10 +92,10 @@ h3 {
   transform: skewY(-5deg);
   z-index: -1;
 }
-.resume .base .profile .photo img {
+/* .resume .base .profile .photo img {
   width: 100%;
   border-radius: 50%;
-}
+} */
 .resume .base .profile .info {
   text-align: center;
   color: #fcfcfc;
